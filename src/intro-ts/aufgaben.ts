@@ -182,7 +182,7 @@ console.log(whereIsSam.toLowerCase());
 console.log(`${whereIsSam.substring(0, 3).toUpperCase()} ${whereIsSam.substring(4, 15)} ${whereIsSam.substring(16).toUpperCase()}`);
 console.log(`${whereIsSam.substring(0, 3).toLowerCase()} ${whereIsSam.substring(4, 15).toUpperCase()} ${whereIsSam.substring(16)}`);
 console.log(`${whereIsSam.substring(0, 3)} ${whereIsSam.substring(4, 5).toUpperCase()}${whereIsSam.substring(5, 6)} ${whereIsSam.substring(7, 8).toUpperCase()}${whereIsSam.substring(8, 12)} ${whereIsSam.substring(13, 14).toUpperCase()}${whereIsSam.substring(14, 15)} ${whereIsSam.substring(16)}`);
-console.log(`${whereIsSam.charAt(0)}`);
+// console.log(`${whereIsSam.charAt(0).toUpperCase()}`);
 
 //  =======================================
 //          String Methods Level-1_9
